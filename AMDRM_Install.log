@@ -1,0 +1,10 @@
+05.01.2026 11:16:51 :: Occurance of 'PRO' found at : 25. Needs further verification.
+05.01.2026 11:16:51 :: Occurance of 'PRO' found at : 25 is NOT single word. Check for 'processor'.
+05.01.2026 11:16:51 :: Occurance of 'PRO' found at : 25 is part of PROCESSOR.Discard and check in remaining string.
+05.01.2026 11:16:51 :: Updated processor name : AMD Ryzen 5 5600 6-Core                
+05.01.2026 11:16:51 :: Occurance of 'PRO' NOT found.Proceed with installation.
+05.01.2026 11:16:51 :: Installation can CONTINUE. Processor : AMD Ryzen 5 5600 6-Core                 Manufacturer : Micro-Star International Co., Ltd.
+05.01.2026 11:16:51 :: UpdateARP, value : HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{DBD50508-5F75-416B-995D-C42433A00944}\WindowsInstaller
+05.01.2026 11:16:51 :: Function UpdateARP. dat File not present
+05.01.2026 11:16:51 :: Function UpdateARP. dat File not present
+05.01.2026 11:16:51 :: SetFolPermission_install : Not enabling as programfiles detected
